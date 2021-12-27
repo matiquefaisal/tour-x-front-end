@@ -8,4 +8,3 @@ Live site Link: travel-website-x.netlify.app
 4. Also there is an admin dashboard where everyone can see all the bookings list 
 5. Admin can update status or delete
 
-# tour-x-front-end
