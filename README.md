@@ -1,6 +1,6 @@
 # Tour X Tourism website 
 
-Live site Link: travel-website-x.netlify.app
+Live site Link: "travel-website-x.netlify.app"
 
 1. Tour x is a tourism website where user can book tour based on the packages
 2. User can Manage all bookings
